@@ -4,7 +4,7 @@ This project explores how text similarity techniques can be used to identify rel
 Using TF-IDF vectorization and cosine similarity, the project identifies shows that share similar themes, vocabulary, and narrative elements. These methods are commonly used in content recommendation systems, such as those used by streaming platforms to suggest new shows to viewers.
 
 Read the full Medium post here:
-👉 []
+👉 [https://medium.com/@kousalyapotti/from-dora-to-batman-finding-similar-animated-tv-shows-with-nlp-a930ea117ae8]
 
 # Tools Used
 - Python
